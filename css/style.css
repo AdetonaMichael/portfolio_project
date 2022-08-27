@@ -24,3 +24,28 @@ nav{
 #projects{
     background:#45567d;
 }
+#contact{
+    height:80vh;
+    text-align: center;
+    color:white;
+    background:#303841;
+  
+}
+#contact h5,h1, #icons{
+       position:relative;
+       top:300px;
+       
+}
+#contact ul {
+    display:flex;
+    justify-content: center;
+    list-style:none;
+    color:white;
+}
+#contact li{
+    padding-left:5px;
+    padding-right:5px;
+}
+#footer{
+    border-top:4px solid #be3144;
+}
