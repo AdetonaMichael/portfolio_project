@@ -1,0 +1,23 @@
+nav{
+    background-color: #be3144;
+    color:white
+}
+#navbarNav{
+    display:flex;
+    justify-content: right;
+    font:bold 15px tahoma;
+    color:white;
+}
+#landing-page{
+    height:100vh;
+    background:#3a3d40;
+}
+#landing-page h1{
+    position:relative;
+    top:280px;
+}
+#landing-page h4{
+    position:relative;
+    top:300px;
+    color:white
+}
